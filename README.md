@@ -30,7 +30,7 @@ This dashboard enables HR teams to make **data-driven decisions** to improve emp
 
 ##  How to View the Dashboard  
 ## Project Level  
-- Beginner–Intermediate
+- Intermediate
 
 ## HR Analytics Dashboard: A Comprehensive Data Science Project Using Power BI
 
@@ -91,4 +91,4 @@ The HR Analytics Dashboard provides valuable insights into employee attrition, h
 
 By leveraging Power BI for this HR Analytics Dashboard, we were able to transform raw data into actionable insights, providing a powerful tool for improving employee retention and satisfaction.
   
-📧 **Email:** chauhanishika45@gmail.com  
+📧 **Email:** 
