@@ -1,3 +1,4 @@
+<img width="1494" height="838" alt="HR Tableau Dashboard" src="https://github.com/user-attachments/assets/0d5e157e-92ee-4f52-85d5-6671a3a1c84e" />
 # HR-Analytics-Dashboard
 
 # HR Analytics Dashboard – Tableau
