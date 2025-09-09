@@ -1,6 +1,4 @@
-<img width="1494" height="838" alt="HR Tableau Dashboard" src="https://github.com/user-attachments/assets/0d5e157e-92ee-4f52-85d5-6671a3a1c84e" />
 # HR-Analytics-Dashboard
-
 # HR Analytics Dashboard – Tableau
 
 ##  Project Objective  
@@ -27,9 +25,11 @@ This dashboard enables HR teams to make **data-driven decisions** to improve emp
 - Creating **interactive filters** for better drill-down analysis  
 - Using calculated fields to create KPIs  
 - Designing a clean, executive-friendly dashboard layout  
-- Applying data storytelling principles in visualizations  
+- Applying data storytelling principles in visualizations
+-  
+## View the Dashboard 
+<img width="1494" height="838" alt="HR Tableau Dashboard" src="https://github.com/user-attachments/assets/0d5e157e-92ee-4f52-85d5-6671a3a1c84e" />  
 
-##  How to View the Dashboard  
 ## Project Level  
 - Intermediate
 
@@ -42,6 +42,10 @@ The aim of this HR Analytics Dashboard is to delve into employee attrition, unco
 To achieve our objective, we focused on several critical KPIs:
 - **Rate of Attrition**: Overall attrition rate within the organization.
 - **Attrition by Gender**: Trends in attrition across genders.
+
+https://github.com/user-attachments/assets/56d49b27-85e8-4e0f-8241-9242e517d183
+
+
 - **Attrition by Education Field**: Variations in attrition based on educational backgrounds.
 - **Attrition by Job Role**: Roles with higher attrition rates.
 - **Average Employee Age**: Age distribution of departing employees.
